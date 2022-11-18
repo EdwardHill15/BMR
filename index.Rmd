@@ -2,7 +2,7 @@
 output: html_document
   
 email_address: totalegezondheidbv@gmail.com
-github_repo: https://github.com/EdwardHill15/Data
+github_repo: https://github.com/EdwardHill15/BMR
 ---
 <center>
 <h1><span style="color:green">Seminar and Clinic:<br>Body Movement Reprocessing</span></h1>

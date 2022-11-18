@@ -24,9 +24,9 @@ knitr::include_graphics("graph1.jpg", error = FALSE)
 ```{css echo = FALSE}
 /* Whole document: */
 body {
-  background-color: #AED6F1 ;
+  background-color: #c0e5fc;
   color: #34495E ;
-  font-family: Helvetica;
+  font-family: "Helvetica";
   font-size: 20pt;
 }
 /* Headers */
@@ -52,6 +52,14 @@ h1{
 <!-- knitr::include_graphics("graph1.jpg", error = FALSE) -->
 <!-- ``` -->
 \
+
+<span style="color:red">Introduction</span><br>
+
+```{r message=FALSE, echo=FALSE}
+knitr::include_graphics("graph3.jpg", error = FALSE)
+```
+\
+\
 In a three-hour training/ workshop you will experience directly the relaxing and beneficial effect of concentration and mindful movement as a specific form of meditation on your body and mind.<br><br>
 
 By focusing your attention on your breathing, muscles and body posture during exercise you will experience the thrill of flow in consciousness, which relaxes your mind and body during exercise.<br><br>
@@ -72,6 +80,10 @@ By consciously focusing your attention during physical exercise on inner body se
 \
 Edward F. Hillenaar, MSc. is an exercise scientist, (sport) psychologist and CEO of Total Health, a practice for therapy/ coaching and guidance to wholesome physical and psychological health.<br><br>
 
+```{r message=FALSE, echo=FALSE}
+knitr::include_graphics("graph4.jpg", error = FALSE)
+```
+
 He also is a serious active endurance athlete and has participated several times in ultra-marathons in Asia ('The Ancient Khmer Path' in Cambodia in 2012 and the 'Ultra India Race' in 2014).<br><br>
 
 The beneficial influence of Mindful Movement, or Mindful Running on the psychological and physical health is well known by him on both academic and personal  level.<br><br>
@@ -88,6 +100,10 @@ At an academic level he is engaged in a PhD-study (‘Mindful Running and Psycho
 ::: {.column width="30%"}
 \
 <span style="color:red">Speaker</span><br>
+```{r message=FALSE, echo=FALSE}
+knitr::include_graphics("graph2.jpg", error = FALSE)
+```
+\
 Edward F. Hillenaar, MSc<br>
 \
 <span style="color:red">Date</span><br>
@@ -113,8 +129,6 @@ Pieter Cornelisz Hooftstraat 183<br>
 #bodymovement<br>
 #reprocessingtherapy<br>
 \
-\
-
 <span style="color:red">Organization:</span>
 
 ```{r message=FALSE, echo=FALSE}

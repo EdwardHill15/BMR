@@ -6,6 +6,7 @@ github_repo: https://github.com/EdwardHill15/BMR
 ---
 <center>
 <h1><span style="color:green">Seminar and Clinic:<br>Body Movement Reprocessing</span></h1>
+\
 
 ```{r setup, include=FALSE, echo=FALSE, out.width="100%"}
 knitr::opts_chunk$set(echo = TRUE)
@@ -17,7 +18,7 @@ knitr::opts_chunk$set(echo = TRUE)
 knitr::include_graphics("graph1.jpg", error = FALSE)
 
 ```
-
+<br><br>
 </center>
 
 ```{css echo = FALSE}
@@ -26,7 +27,7 @@ body {
   background-color: #AED6F1 ;
   color: #34495E ;
   font-family: Helvetica;
-  font-size: 16pt;
+  font-size: 20pt;
 }
 /* Headers */
 h1{
@@ -50,7 +51,7 @@ h1{
 <!-- ```{r message=FALSE, echo=FALSE} -->
 <!-- knitr::include_graphics("graph1.jpg", error = FALSE) -->
 <!-- ``` -->
-
+\
 In a three-hour training/ workshop you will experience directly the relaxing and beneficial effect of concentration and mindful movement as a specific form of meditation on your body and mind.<br><br>
 
 By focusing your attention on your breathing, muscles and body posture during exercise you will experience the thrill of flow in consciousness, which relaxes your mind and body during exercise.<br><br>
@@ -68,7 +69,7 @@ By consciously focusing your attention during physical exercise on inner body se
 :::
 
 ::: {.column width="30%"}
-
+\
 Edward F. Hillenaar, MSc. is an exercise scientist, (sport) psychologist and CEO of Total Health, a practice for therapy/ coaching and guidance to wholesome physical and psychological health.<br><br>
 
 He also is a serious active endurance athlete and has participated several times in ultra-marathons in Asia ('The Ancient Khmer Path' in Cambodia in 2012 and the 'Ultra India Race' in 2014).<br><br>
@@ -85,22 +86,23 @@ At an academic level he is engaged in a PhD-study (‘Mindful Running and Psycho
 :::
 
 ::: {.column width="30%"}
+\
 <span style="color:red">Speaker</span><br>
-Edward F. Hillenaar, MSc
-
+Edward F. Hillenaar, MSc<br>
+\
 <span style="color:red">Date</span><br>
 Saturday, 28 januari, 2023<br>
 Van 13.00 – 17.00 uur<br>
 (12.30 uur present)<br>
-
+\
 <span style="color:red">Location</span><br>
 Centrum De Roos<br>
 Pieter Cornelisz Hooftstraat 183<br>
 1071 BW Amsterdam<br>
-
+\
 <span style="color:red">Fee</span><br>
 25 EURO (max. 25)<br>
-
+\
 #mindfulmovement<br>
 #psychologicalhealth<br>
 #mindfulness<br>
@@ -110,6 +112,8 @@ Pieter Cornelisz Hooftstraat 183<br>
 #mindfulrunning<br>
 #bodymovement<br>
 #reprocessingtherapy<br>
+\
+\
 
 <span style="color:red">Organization:</span>
 

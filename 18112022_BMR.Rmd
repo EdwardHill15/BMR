@@ -1,0 +1,133 @@
+---
+output: html_document
+  
+email_address: totalegezondheidbv@gmail.com
+github_repo: https://github.com/EdwardHill15/Data
+---
+<center>
+<h1><span style="color:green">Seminar and Clinic:<br>Body Movement Reprocessing</span></h1>
+
+```{r setup, include=FALSE, echo=FALSE, out.width="100%"}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+
+```{r echo = FALSE, out.width="80%"}
+knitr::include_graphics("graph1.jpg", error = FALSE)
+
+```
+
+</center>
+
+```{css echo = FALSE}
+/* Whole document: */
+body {
+  background-color: #AED6F1 ;
+  color: #34495E ;
+  font-family: Helvetica;
+  font-size: 16pt;
+}
+/* Headers */
+h1{
+  font-size: 50pt;
+}
+.main-container {
+  max-width: 100%
+}
+
+```
+
+:::: {style="display: flex;"}
+::: {.column width="1%"}
+
+:::
+
+::: {.column width="30%"}
+
+<!-- <h2><span style="color:green">Body Movement Reprocessing<br>and Stress</span></h2> -->
+
+<!-- ```{r message=FALSE, echo=FALSE} -->
+<!-- knitr::include_graphics("graph1.jpg", error = FALSE) -->
+<!-- ``` -->
+
+
+<span style="color:red">Speaker</span><br>
+Edward F. Hillenaar, MSc
+
+<span style="color:red">Date</span><br>
+Saturday, 28 januari, 2023<br>
+Van 13.00 – 17.00 uur<br>
+(12.30 uur present)<br>
+
+<span style="color:red">Location</span><br>
+Centrum De Roos<br>
+Pieter Cornelisz Hooftstraat 183<br>
+1071 BW Amsterdam<br>
+
+<span style="color:red">Fee</span><br>
+25 EURO (max. 25)<br>
+
+#mindfulmovement<br>
+#psychologicalhealth<br>
+#mindfulness<br>
+#meditation<br>
+#psychologicalstress<br>
+#buddhism<br>
+#mindfulrunning<br>
+#bodymovement<br>
+#reprocessingtherapy<br>
+
+<span style="color:red">Organization:</span>
+
+```{r message=FALSE, echo=FALSE}
+knitr::include_graphics("logo_th.jpg", error = FALSE)
+```
+
+:::
+
+::: {.column width="4%"}
+
+<!-- ... and this is the middle column (separate space) -->
+
+:::
+
+::: {.column width="30%"}
+
+In a three-hour training/ workshop you will experience directly the relaxing and beneficial effect of concentration and mindful movement as a specific form of meditation on your body and mind.<br><br>
+
+By focusing your attention on your breathing, muscles and body posture during exercise you will experience the thrill of flow in consciousness, which relaxes your mind and body during exercise.<br><br>
+
+Body Movement Reprocessing Therapy can be seen as partially a specific form of meditation from the Buddhist philosophy of life.<br><br>
+
+By consciously focusing your attention during physical exercise on inner body sensations your consciousness experience a wholesome state of health and wellbeing.
+
+:::
+
+::: {.column width="4%"}
+
+:::
+
+::: {.column width="30%"}
+
+Edward F. Hillenaar, MSc. is an exercise scientist, (sport) psychologist and CEO of Total Health, a practice for therapy/ coaching and guidance to wholesome physical and psychological health.<br><br>
+
+He also is a serious active endurance athlete and has participated several times in ultra-marathons in Asia ('The Ancient Khmer Path' in Cambodia in 2012 and the 'Ultra India Race' in 2014).<br><br>
+
+The beneficial influence of Mindful Movement, or Mindful Running on the psychological and physical health is well known by him on both academic and personal  level.<br><br>
+
+At an academic level he is engaged in a PhD-study (‘Mindful Running and Psychological Distress’) at the Free University of Amsterdam to scientifically test his  method of Body Movement Reprocessing Therapy on Psychological Health.
+
+:::
+
+::: {.column width="1%"}
+
+:::
+
+::::
+<br>
+<br>
+<center>
+Site [developed](`r rmarkdown::metadata$github_repo`) by [Edward Hillenaar](mailto: `r rmarkdown::metadata$email_address`)<br>Last updated on `r Sys.Date()`
+</center>
+

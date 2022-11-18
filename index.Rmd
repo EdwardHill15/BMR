@@ -51,7 +51,39 @@ h1{
 <!-- knitr::include_graphics("graph1.jpg", error = FALSE) -->
 <!-- ``` -->
 
+Edward F. Hillenaar, MSc. is an exercise scientist, (sport) psychologist and CEO of Total Health, a practice for therapy/ coaching and guidance to wholesome physical and psychological health.<br><br>
 
+He also is a serious active endurance athlete and has participated several times in ultra-marathons in Asia ('The Ancient Khmer Path' in Cambodia in 2012 and the 'Ultra India Race' in 2014).<br><br>
+
+The beneficial influence of Mindful Movement, or Mindful Running on the psychological and physical health is well known by him on both academic and personal  level.<br><br>
+
+At an academic level he is engaged in a PhD-study (‘Mindful Running and Psychological Distress’) at the Free University of Amsterdam to scientifically test his  method of Body Movement Reprocessing Therapy on Psychological Health.
+
+:::
+
+::: {.column width="4%"}
+
+<!-- ... and this is the middle column (separate space) -->
+
+:::
+
+::: {.column width="30%"}
+
+In a three-hour training/ workshop you will experience directly the relaxing and beneficial effect of concentration and mindful movement as a specific form of meditation on your body and mind.<br><br>
+
+By focusing your attention on your breathing, muscles and body posture during exercise you will experience the thrill of flow in consciousness, which relaxes your mind and body during exercise.<br><br>
+
+Body Movement Reprocessing Therapy can be seen as partially a specific form of meditation from the Buddhist philosophy of life.<br><br>
+
+By consciously focusing your attention during physical exercise on inner body sensations your consciousness experience a wholesome state of health and wellbeing.
+
+:::
+
+::: {.column width="4%"}
+
+:::
+
+::: {.column width="30%"}
 <span style="color:red">Speaker</span><br>
 Edward F. Hillenaar, MSc
 
@@ -83,40 +115,6 @@ Pieter Cornelisz Hooftstraat 183<br>
 ```{r message=FALSE, echo=FALSE}
 knitr::include_graphics("logo_th.jpg", error = FALSE)
 ```
-
-:::
-
-::: {.column width="4%"}
-
-<!-- ... and this is the middle column (separate space) -->
-
-:::
-
-::: {.column width="30%"}
-
-In a three-hour training/ workshop you will experience directly the relaxing and beneficial effect of concentration and mindful movement as a specific form of meditation on your body and mind.<br><br>
-
-By focusing your attention on your breathing, muscles and body posture during exercise you will experience the thrill of flow in consciousness, which relaxes your mind and body during exercise.<br><br>
-
-Body Movement Reprocessing Therapy can be seen as partially a specific form of meditation from the Buddhist philosophy of life.<br><br>
-
-By consciously focusing your attention during physical exercise on inner body sensations your consciousness experience a wholesome state of health and wellbeing.
-
-:::
-
-::: {.column width="4%"}
-
-:::
-
-::: {.column width="30%"}
-
-Edward F. Hillenaar, MSc. is an exercise scientist, (sport) psychologist and CEO of Total Health, a practice for therapy/ coaching and guidance to wholesome physical and psychological health.<br><br>
-
-He also is a serious active endurance athlete and has participated several times in ultra-marathons in Asia ('The Ancient Khmer Path' in Cambodia in 2012 and the 'Ultra India Race' in 2014).<br><br>
-
-The beneficial influence of Mindful Movement, or Mindful Running on the psychological and physical health is well known by him on both academic and personal  level.<br><br>
-
-At an academic level he is engaged in a PhD-study (‘Mindful Running and Psychological Distress’) at the Free University of Amsterdam to scientifically test his  method of Body Movement Reprocessing Therapy on Psychological Health.
 
 :::
 

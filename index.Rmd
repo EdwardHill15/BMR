@@ -24,7 +24,7 @@ knitr::include_graphics("graph1.jpg", error = FALSE)
 ```{css echo = FALSE}
 /* Whole document: */
 body {
-  background-color: #c0e5fc;
+  background-color: #03fcf8;
   color: #34495E ;
   font-family: "Helvetica";
   font-size: 20pt;
